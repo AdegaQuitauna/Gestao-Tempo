@@ -135,6 +135,55 @@ A mineração de dados é a etapa de análise da " descoberta de conhecimento em
 https://www.youtube.com/watch?v=O68y0yRZL1Y
 Entendendo Como ChatGPT Funciona - Rodando sua Própria IA
 Fabio Akita
+## Capítulos
+
+00:01:07 - CAP 01 - Minha IA PESSOAL e OFFLINE - text-generation-webui
+00:06:37 - CAP 02 - Introdução a MODELOS - Como IA Aprende?
+00:10:09 - CAP 03 - Auto-Corretor de Teclado de Celular - Cadeias de Markov
+00:15:34 - CAP 04 - 170 TRILHÕES de parâmetros - Maior que nosso cérebro?
+00:20:28 - CAP 05 - De Markov a IA - O que são Tensors?
+00:30:53 - CAP 06 - A Revolução da Auto-Atenção - O que são Transformers?
+00:35:24 - CAP 07 - Hardware pra Treinar IA - NVIDIA
+00:42:09 - CAP 08 - Parâmetros e Sinapses são equivalentes? - Quantização
+00:49:42 - CAP 09 - Estamos próximos de AGI? IAs são Inteligentes?
+00:52:10 - CAP 10 - Controlando Criatividade de IAs - Temperatura
+01:00:27 - CAP 11 - A Avó do ChatGPT - Eliza
+01:04:29 - CAP 12 - IAs que fazem Imagens - Diffusion
+01:09:31 - CAP 13 - Discutindo PROMPTs - LangChain
+01:13:08 - CAP 14 - IAs vão matar programadores? Quais os Limites?
+01:22:15 - CAP 15 - Virando "Programador 10x" com auxílio de IAs - Copilot
+01:23:47 - CAP 16 - CONCLUSÃO - O começo da BOLHA
+01:28:18 - Bloopers
+
+## Links
+
+* [Introducing LLaMA: A foundational, 65-billion-parameter language model (facebook.com)](https://ai.facebook.com/blog/large-la...)
+* [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-gen...)
+* [TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ](https://huggingface.co/TheBloke/Wizar...)
+* [Neural networks - YouTube](  
+
+ • Neural networks  )
+* [GPT-4 Will Have 100 Trillion Parameters — 500x the Size of GPT-3 | by Alberto Romero | Towards Data Science](https://towardsdatascience.com/gpt-4-...)
+* [MIT Deep Learning 6.S191 (introtodeeplearning.com)](http://introtodeeplearning.com/)
+* [DF Direct Special: Starfield Tech Breakdown - 30FPS, Visuals, Rendering Tech + Game Impressions - YouTube](  
+
+ • DF Direct Special...  )
+* [NVIDIA Made a CPU.. I’m Holding It. - YouTube](  
+
+ • NVIDIA Made a CPU...  )
+* [(2) Artem Andreenko 🇺🇦 on Twitter: "I've sucefully runned LLaMA 7B model on my 4GB RAM Raspberry Pi 4. It's super slow about 10sec/token. But it looks we can run powerful cognitive pipelines on a cheap hardware. https://t.co/XDbvM2U5GY" / Twitter](https://twitter.com/miolini/status/16...)
+* [Émile Borel and the Infinite Monkey Problem | SciHi Blog](http://scihi.org/emile-borel-infinite...)
+* [GitHub - codeanticode/eliza: The classic Eliza psychologist program, implemented as a Processing library.](https://github.com/codeanticode/eliza)
+* [Stories • Instagram](https://www.instagram.com/stories/hig...)
+* [TheBloke (Tom Jobbins) (huggingface.co)](https://huggingface.co/TheBloke)
+* [Introduction | 🦜️🔗 Langchain](https://python.langchain.com/docs/get...)
+
+
+* Podcast: https://podcasters.spotify.com/pod/sh...
+* Transcript: https://www.akitaonrails.com/2023/06/...
+
+
 
 
 
